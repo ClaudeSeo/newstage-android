@@ -1,4 +1,4 @@
-package com.gmail.ehdaudtj.newstage;
+package com.gmail.ehdaudtj.newstage.activity;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
